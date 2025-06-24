@@ -68,6 +68,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-toastify": "^4.0.2",
     "postcss": "^8",
     "prisma": "^6.0.1",
     "storybook": "^8.5.3",
